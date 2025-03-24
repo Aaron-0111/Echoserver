@@ -3,7 +3,7 @@ Echo server and client using python socket
 
 # AIM:
 
-To develop a simple webserver to serve html programming pages.a
+To develop a echo server and client using python socket
 
 ## DESIGN STEPS:
 
